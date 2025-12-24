@@ -1,0 +1,2 @@
+THIS IS MY NEW FILE UNDER THE FOLDER MYCODE 2 
+will run the python code everyday for practice
